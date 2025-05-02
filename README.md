@@ -4,7 +4,7 @@ This repository contains solutions to Data Structures and Algorithms (DSA) probl
 
 ## 📂 Structure
 
-Problems are organized by Problem no in separate folders. Each solution file is named according to the problem number on leetcode.
+Problems are organized by Problem no in separate folders. Each solution file is named according to the problem number on leetcode and name of the concept.
 
 ## 📚 Topics Covered
 
