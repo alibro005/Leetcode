@@ -10,7 +10,7 @@ int mySqrt(int x)
         long long mid = start + (end - start) / 2;
         if (mid * mid == x)
         {
-            return mid;
+            return ans;
         }
         else if (mid * mid > x)
         {
@@ -19,13 +19,15 @@ int mySqrt(int x)
         else
         {
             start = mid + 1;
+            ans = mid;
         }
     }
+    return ans;
 }
 
 int main()
 {
-    int x = 5;
+    int x = 8;
     cout << mySqrt(x);
     return 0;
 }
