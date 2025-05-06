@@ -8,7 +8,7 @@ int main(){
     for(int i : nums){
         ans ^= i ;
     }
-
+    
     cout<<"Single Number is : "<<ans;
     return 0 ;
 }
