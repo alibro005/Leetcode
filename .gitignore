@@ -1,6 +1,7 @@
 
 #Ignored Files
 
+.vscode
 Problem_9/index.exe
 Problem_53/index.exe
 Problem_69/index.exe
