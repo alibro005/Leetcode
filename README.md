@@ -28,7 +28,6 @@ Problems are organized by Problem no in separate folders. Each solution file is 
 
 - C++
 - Python
-- JavaScript
 
 ---
 
