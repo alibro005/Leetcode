@@ -46,6 +46,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -54,5 +55,10 @@ Happy coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
