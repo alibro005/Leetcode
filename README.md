@@ -28,7 +28,6 @@ Problems are organized by Problem no in separate folders. Each solution file is 
 
 - C++
 - Python
-- JavaScript
 
 ---
 
@@ -44,4 +43,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
