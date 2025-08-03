@@ -61,8 +61,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
-## Database
-|  |
-| ------- |
-| [0586-customer-placing-the-largest-number-of-orders](https://github.com/alibro005/DSA-Problems/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+
 <!---LeetCode Topics End-->
