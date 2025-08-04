@@ -63,8 +63,5 @@ Happy coding! 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/alibro005/DSA-Problems/tree/master/0175-combine-two-tables) |
+
 <!---LeetCode Topics End-->
