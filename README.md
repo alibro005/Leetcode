@@ -55,12 +55,14 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
