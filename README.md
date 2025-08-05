@@ -38,6 +38,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/alibro005/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
