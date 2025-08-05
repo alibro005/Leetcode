@@ -41,6 +41,7 @@ Happy coding! 🚀
 | [0007-reverse-integer](https://github.com/alibro005/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,4 +87,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
