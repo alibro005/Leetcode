@@ -40,12 +40,14 @@ Happy coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/alibro005/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -54,11 +56,13 @@ Happy coding! 🚀
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +70,7 @@ Happy coding! 🚀
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +96,7 @@ Happy coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
