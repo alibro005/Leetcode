@@ -60,6 +60,7 @@ Happy coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/alibro005/DSA-Problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/alibro005/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
