@@ -40,6 +40,7 @@ Happy coding! 🚀
 | ------- |
 | [0007-reverse-integer](https://github.com/alibro005/DSA-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
@@ -54,6 +55,7 @@ Happy coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
@@ -79,6 +81,7 @@ Happy coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
