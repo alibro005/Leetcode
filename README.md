@@ -53,6 +53,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
@@ -66,6 +67,7 @@ Happy coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
