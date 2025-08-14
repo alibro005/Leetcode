@@ -49,6 +49,7 @@ Happy coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/alibro005/DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alibro005/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
@@ -150,4 +152,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alibro005/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
