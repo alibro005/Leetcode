@@ -126,6 +126,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/alibro005/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
