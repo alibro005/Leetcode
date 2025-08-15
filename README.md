@@ -44,6 +44,7 @@ Happy coding! 🚀
 | [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/alibro005/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Binary Search
@@ -119,6 +120,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/alibro005/DSA-Problems/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -135,6 +137,7 @@ Happy coding! 🚀
 | [0231-power-of-two](https://github.com/alibro005/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
