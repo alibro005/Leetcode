@@ -39,6 +39,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/alibro005/DSA-Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
@@ -66,6 +67,7 @@ Happy coding! 🚀
 | [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/alibro005/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
@@ -175,5 +177,6 @@ Happy coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/alibro005/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
