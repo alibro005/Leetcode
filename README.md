@@ -61,6 +61,7 @@ Happy coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/alibro005/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/alibro005/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1646-kth-missing-positive-number](https://github.com/alibro005/DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alibro005/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -191,4 +192,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/alibro005/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
