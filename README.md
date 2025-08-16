@@ -47,6 +47,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/alibro005/DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
@@ -179,4 +180,8 @@ Happy coding! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/alibro005/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
