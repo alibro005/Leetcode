@@ -44,6 +44,7 @@ Happy coding! 🚀
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/alibro005/DSA-Problems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/alibro005/DSA-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
