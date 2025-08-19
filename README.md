@@ -51,6 +51,7 @@ Happy coding! 🚀
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/alibro005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3859-maximum-product-of-two-digits](https://github.com/alibro005/DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ Happy coding! 🚀
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alibro005/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/alibro005/DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/alibro005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alibro005/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
