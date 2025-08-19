@@ -74,6 +74,7 @@ Happy coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
@@ -119,6 +120,7 @@ Happy coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -132,6 +134,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
