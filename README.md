@@ -77,6 +77,7 @@ Happy coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alibro005/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
@@ -125,6 +126,7 @@ Happy coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alibro005/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -140,6 +142,7 @@ Happy coding! 🚀
 | ------- |
 | [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alibro005/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
