@@ -5,15 +5,28 @@ class Solution:
         result = []
 
         for i in range(n):
-            for j in range(i+1,n):
-                for k in range(j+1,n):
-                    l = target - (nums[i] + nums[j] + nums[k])
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue
+            for j in range(i + 1, n):
+                if j > i + 1 and nums[j] == nums[j - 1]:
+                    continue
+                k = j + 1
+                l = n - 1
 
-                    total_sum = nums[i] + nums[j] + nums[k] + l
+                while k < l:
+                    total_sum = nums[i] + nums[j] + nums[k] + nums[l]
 
-                    if l in nums[k+1:]:
-                        temp = [nums[i],nums[j],nums[k],l]
-                        
-                        if temp not in result:
-                            result.append(temp)
+                    if total_sum == target:
+                        result.append([nums[i], nums[j], nums[k], nums[l]])
+                        k += 1
+                        l -= 1
+
+                        while k < l and nums[k] == nums[k - 1]:
+                            k += 1
+                        while k < l and nums[l] == nums[l + 1]:
+                            l -= 1
+                    elif total_sum < target:
+                        k += 1
+                    else:
+                        l -= 1
         return result
