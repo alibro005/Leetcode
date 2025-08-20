@@ -107,6 +107,7 @@ Happy coding! 🚀
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/alibro005/DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/alibro005/DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/alibro005/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alibro005/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/alibro005/DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/alibro005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -214,6 +215,7 @@ Happy coding! 🚀
 | [0898-transpose-matrix](https://github.com/alibro005/DSA-Problems/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/alibro005/DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1791-richest-customer-wealth](https://github.com/alibro005/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/alibro005/DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 ## Greedy
 |  |
