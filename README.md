@@ -124,6 +124,7 @@ Happy coding! 🚀
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -180,6 +181,7 @@ Happy coding! 🚀
 | ------- |
 | [0058-length-of-last-word](https://github.com/alibro005/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/alibro005/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -205,6 +207,7 @@ Happy coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alibro005/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -231,4 +234,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/alibro005/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
