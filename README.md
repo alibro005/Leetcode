@@ -59,6 +59,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/alibro005/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/alibro005/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/alibro005/DSA-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/alibro005/DSA-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -84,6 +85,7 @@ Happy coding! 🚀
 | [0016-3sum-closest](https://github.com/alibro005/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/alibro005/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/alibro005/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/alibro005/DSA-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/alibro005/DSA-Problems/tree/master/0066-plus-one) |
