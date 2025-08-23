@@ -162,6 +162,7 @@ Happy coding! 🚀
 | [0202-happy-number](https://github.com/alibro005/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/alibro005/DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alibro005/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -171,6 +172,7 @@ Happy coding! 🚀
 | [0118-pascals-triangle](https://github.com/alibro005/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/alibro005/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alibro005/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ Happy coding! 🚀
 | [0058-length-of-last-word](https://github.com/alibro005/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/alibro005/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/alibro005/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
