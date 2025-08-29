@@ -190,6 +190,7 @@ Happy coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/alibro005/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/alibro005/DSA-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
@@ -286,5 +287,6 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/alibro005/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/alibro005/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/alibro005/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
