@@ -53,6 +53,7 @@ Happy coding! 🚀
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/alibro005/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [2050-count-good-numbers](https://github.com/alibro005/Leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/alibro005/Leetcode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/alibro005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3859-maximum-product-of-two-digits](https://github.com/alibro005/DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
@@ -211,6 +212,7 @@ Happy coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/alibro005/Leetcode/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
