@@ -1,21 +1,27 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
 
-        if len(digits) == 0:
+        if not digits:
             return []
 
-        phone_map = {'2':'abc','3':'def','4':'ghi','5':'jkl','6':'mno','7':'pqrs','8':'tuv','9':'wxyz'}
+        phone_map = {
+            "2": "abc",
+            "3": "def",
+            "4": "ghi",
+            "5": "jkl",
+            "6": "mno",
+            "7": "pqrs",
+            "8": "tuv",
+            "9": "wxyz",
+        }
 
-        result = []
+        result = [""]
 
-        def helper(index:int,current:str):
+        for digit in digits:
+            temp = []
 
-            if index == len(digits):
-                result.append(current)
-                return
-            
-            for char in phone_map[digits[index]]:
-                helper(index+1,current+char)
-        
-        helper(0,"")
+            for comb in result:
+                for char in phone_map[digit]:
+                    temp.append(comb+char)
+                result = temp
         return result
