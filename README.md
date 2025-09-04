@@ -56,6 +56,7 @@ Happy coding! 🚀
 | [2050-count-good-numbers](https://github.com/alibro005/Leetcode/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/alibro005/Leetcode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/alibro005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3830-find-closest-person](https://github.com/alibro005/Leetcode/tree/master/3830-find-closest-person) |
 | [3859-maximum-product-of-two-digits](https://github.com/alibro005/DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
