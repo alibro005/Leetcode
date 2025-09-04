@@ -198,6 +198,7 @@ Happy coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/alibro005/DSA-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/alibro005/DSA-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alibro005/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,6 +221,7 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/alibro005/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -325,4 +327,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
