@@ -150,6 +150,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -163,6 +164,7 @@ Happy coding! 🚀
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/alibro005/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alibro005/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0941-sort-array-by-parity](https://github.com/alibro005/DSA-Problems/tree/master/0941-sort-array-by-parity) |
@@ -228,6 +230,7 @@ Happy coding! 🚀
 | [0058-length-of-last-word](https://github.com/alibro005/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/alibro005/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/alibro005/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -239,6 +242,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/alibro005/Leetcode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 ## Prefix Sum
