@@ -1,18 +1,20 @@
 class Solution:
-    def squareOfdigits(self, n):
-        result = 0
+    def next_digit(self,n:int) -> int:
+        total = 0
+
         while n != 0:
-            digit = n % 10
-            result += digit**2
+            last_digit = n % 10
+            total += last_digit * last_digit
             n //= 10
-        return result
+        return total
 
     def isHappy(self, n: int) -> bool:
+        slow = n
+        fast = self.next_digit(n)
 
-        seen = set()
-
-        while n != 1 and n not in seen:
-            seen.add(n)
-            n = self.squareOfdigits(n)
-
-        return n == 1
+        while fast != 1 and slow != fast:
+            slow = self.next_digit(slow)
+            fast = self.next_digit(self.next_digit(fast))
+        
+        return fast == 1
+        
