@@ -51,6 +51,7 @@ Happy coding! 🚀
 | [0628-maximum-product-of-three-numbers](https://github.com/alibro005/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/alibro005/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alibro005/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/alibro005/DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [2050-count-good-numbers](https://github.com/alibro005/Leetcode/tree/master/2050-count-good-numbers) |
@@ -125,6 +126,7 @@ Happy coding! 🚀
 | [0941-sort-array-by-parity](https://github.com/alibro005/DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/alibro005/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/alibro005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alibro005/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/alibro005/DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/alibro005/DSA-Problems/tree/master/1646-kth-missing-positive-number) |
