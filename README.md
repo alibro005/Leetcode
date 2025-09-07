@@ -88,6 +88,7 @@ Happy coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/alibro005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alibro005/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
@@ -177,6 +178,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/alibro005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/alibro005/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/alibro005/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
@@ -288,6 +290,7 @@ Happy coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/alibro005/Leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 ## Interactive
 |  |
