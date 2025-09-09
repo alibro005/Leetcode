@@ -342,10 +342,15 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/alibro005/Leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/alibro005/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alibro005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/alibro005/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
