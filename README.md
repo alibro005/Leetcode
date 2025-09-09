@@ -231,6 +231,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alibro005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/alibro005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/alibro005/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/alibro005/Leetcode/tree/master/0125-valid-palindrome) |
@@ -340,6 +341,7 @@ Happy coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/alibro005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
