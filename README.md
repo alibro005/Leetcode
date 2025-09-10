@@ -300,6 +300,7 @@ Happy coding! 🚀
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/alibro005/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -343,6 +344,7 @@ Happy coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/alibro005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/alibro005/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/alibro005/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Backtracking
 |  |
@@ -353,4 +355,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/alibro005/Leetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/alibro005/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
