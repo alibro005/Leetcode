@@ -131,6 +131,7 @@ Happy coding! 🚀
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alibro005/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/alibro005/DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1539-diagonal-traverse-ii](https://github.com/alibro005/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1646-kth-missing-positive-number](https://github.com/alibro005/DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/alibro005/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -175,6 +176,7 @@ Happy coding! 🚀
 | [0948-sort-an-array](https://github.com/alibro005/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/alibro005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1539-diagonal-traverse-ii](https://github.com/alibro005/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [3859-maximum-product-of-two-digits](https://github.com/alibro005/DSA-Problems/tree/master/3859-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -313,6 +315,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/alibro005/Leetcode/tree/master/0948-sort-an-array) |
+| [1539-diagonal-traverse-ii](https://github.com/alibro005/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 ## Merge Sort
 |  |
 | ------- |
