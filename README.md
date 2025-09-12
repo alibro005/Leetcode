@@ -122,6 +122,7 @@ Happy coding! 🚀
 | [0414-third-maximum-number](https://github.com/alibro005/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/alibro005/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/alibro005/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alibro005/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/alibro005/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/alibro005/DSA-Problems/tree/master/0898-transpose-matrix) |
@@ -157,6 +158,7 @@ Happy coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -263,6 +265,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
 | ------- |
