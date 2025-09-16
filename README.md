@@ -113,6 +113,7 @@ Happy coding! 🚀
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/alibro005/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/alibro005/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alibro005/DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/alibro005/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/alibro005/DSA-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
@@ -170,6 +171,7 @@ Happy coding! 🚀
 | [0018-4sum](https://github.com/alibro005/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/alibro005/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alibro005/DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/alibro005/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/alibro005/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
@@ -246,6 +248,7 @@ Happy coding! 🚀
 | [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/alibro005/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/alibro005/Leetcode/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/alibro005/Leetcode/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
@@ -311,6 +314,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/alibro005/Leetcode/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/alibro005/Leetcode/tree/master/0179-largest-number) |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 ## Interactive
 |  |
