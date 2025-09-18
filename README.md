@@ -126,6 +126,7 @@ Happy coding! 🚀
 | [0498-diagonal-traverse](https://github.com/alibro005/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alibro005/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/alibro005/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/alibro005/DSA-Problems/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/alibro005/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -179,6 +180,7 @@ Happy coding! 🚀
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/alibro005/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alibro005/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0941-sort-array-by-parity](https://github.com/alibro005/DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/alibro005/Leetcode/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/alibro005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -317,6 +319,7 @@ Happy coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/alibro005/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/alibro005/Leetcode/tree/master/0179-largest-number) |
+| [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1448-maximum-69-number](https://github.com/alibro005/DSA-Problems/tree/master/1448-maximum-69-number) |
 ## Interactive
 |  |
@@ -374,6 +377,7 @@ Happy coding! 🚀
 | [0225-implement-stack-using-queues](https://github.com/alibro005/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alibro005/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Backtracking
 |  |
@@ -386,4 +390,8 @@ Happy coding! 🚀
 | [0155-min-stack](https://github.com/alibro005/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/alibro005/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/alibro005/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
