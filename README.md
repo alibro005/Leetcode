@@ -150,6 +150,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alibro005/DSA-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alibro005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alibro005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/alibro005/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/alibro005/DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -249,6 +250,7 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alibro005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/alibro005/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/alibro005/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/alibro005/Leetcode/tree/master/0022-generate-parentheses) |
@@ -400,4 +402,8 @@ Happy coding! 🚀
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/alibro005/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/alibro005/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
