@@ -143,6 +143,7 @@ Happy coding! 🚀
 | [1539-diagonal-traverse-ii](https://github.com/alibro005/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1646-kth-missing-positive-number](https://github.com/alibro005/DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/alibro005/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/alibro005/Leetcode/tree/master/1791-richest-customer-wealth) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alibro005/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/alibro005/DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -288,6 +289,7 @@ Happy coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/alibro005/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/alibro005/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
 | ------- |
