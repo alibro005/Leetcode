@@ -139,6 +139,7 @@ Happy coding! 🚀
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alibro005/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/alibro005/DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/alibro005/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1539-diagonal-traverse-ii](https://github.com/alibro005/Leetcode/tree/master/1539-diagonal-traverse-ii) |
 | [1646-kth-missing-positive-number](https://github.com/alibro005/DSA-Problems/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
@@ -286,6 +287,7 @@ Happy coding! 🚀
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/alibro005/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/alibro005/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
 |  |
 | ------- |
