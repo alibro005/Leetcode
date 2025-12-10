@@ -145,6 +145,7 @@ Happy coding! 🚀
 | [1677-matrix-diagonal-sum](https://github.com/alibro005/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/alibro005/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/alibro005/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/alibro005/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alibro005/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alibro005/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/alibro005/DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -298,6 +299,7 @@ Happy coding! 🚀
 | [0498-diagonal-traverse](https://github.com/alibro005/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/alibro005/DSA-Problems/tree/master/0898-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/alibro005/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alibro005/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/alibro005/DSA-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
