@@ -139,6 +139,7 @@ Happy coding! 🚀
 | [1019-squares-of-a-sorted-array](https://github.com/alibro005/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/alibro005/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/alibro005/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/alibro005/DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/alibro005/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/alibro005/Leetcode/tree/master/1512-number-of-good-pairs) |
