@@ -48,6 +48,7 @@ Happy coding! 🚀
 | [0263-ugly-number](https://github.com/alibro005/DSA-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/alibro005/DSA-Problems/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/alibro005/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/alibro005/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/alibro005/DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/alibro005/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -274,6 +275,7 @@ Happy coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/alibro005/Leetcode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/alibro005/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/alibro005/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -302,6 +304,7 @@ Happy coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/alibro005/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/alibro005/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/alibro005/DSA-Problems/tree/master/0898-transpose-matrix) |
