@@ -174,6 +174,7 @@ Happy coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/alibro005/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/alibro005/DSA-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/alibro005/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/alibro005/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -274,6 +275,7 @@ Happy coding! 🚀
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/alibro005/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/alibro005/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/alibro005/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alibro005/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
