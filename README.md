@@ -414,6 +414,7 @@ Happy coding! 🚀
 | [0503-next-greater-element-ii](https://github.com/alibro005/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/alibro005/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/alibro005/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -444,12 +445,14 @@ Happy coding! 🚀
 | [0450-delete-node-in-a-bst](https://github.com/alibro005/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/alibro005/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/alibro005/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/alibro005/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/alibro005/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -460,6 +463,7 @@ Happy coding! 🚀
 | [0450-delete-node-in-a-bst](https://github.com/alibro005/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/alibro005/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -467,4 +471,5 @@ Happy coding! 🚀
 | [0450-delete-node-in-a-bst](https://github.com/alibro005/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/alibro005/Leetcode/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
