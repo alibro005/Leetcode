@@ -288,6 +288,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0136-single-number](https://github.com/alibro005/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/alibro005/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/alibro005/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/alibro005/DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
@@ -330,6 +331,7 @@ Happy coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/alibro005/DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/alibro005/Leetcode/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/alibro005/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/alibro005/DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/alibro005/Leetcode/tree/master/0948-sort-an-array) |
 ## Matrix
