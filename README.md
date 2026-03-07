@@ -280,6 +280,7 @@ Happy coding! 🚀
 | [0557-reverse-words-in-a-string-iii](https://github.com/alibro005/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/alibro005/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/alibro005/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/alibro005/Leetcode/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/alibro005/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/alibro005/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alibro005/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -481,4 +482,8 @@ Happy coding! 🚀
 | [0700-search-in-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/alibro005/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/alibro005/Leetcode/tree/master/0897-increasing-order-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/alibro005/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
