@@ -157,6 +157,7 @@ Happy coding! 🚀
 | [2432-number-of-zero-filled-subarrays](https://github.com/alibro005/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/alibro005/DSA-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/alibro005/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3861-minimum-capacity-box](https://github.com/alibro005/Leetcode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
 |  |
 | ------- |
