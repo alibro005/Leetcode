@@ -286,6 +286,7 @@ Happy coding! 🚀
 | [1205-defanging-an-ip-address](https://github.com/alibro005/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/alibro005/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/alibro005/DSA-Problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3856-trim-trailing-vowels](https://github.com/alibro005/Leetcode/tree/master/3856-trim-trailing-vowels) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/alibro005/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
