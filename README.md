@@ -490,4 +490,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/alibro005/Leetcode/tree/master/0796-rotate-string) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/alibro005/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
