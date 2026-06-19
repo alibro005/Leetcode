@@ -494,4 +494,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/alibro005/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0607-sales-person](https://github.com/alibro005/Leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
