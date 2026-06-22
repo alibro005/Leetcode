@@ -495,5 +495,6 @@ Happy coding! 🚀
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/alibro005/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0607-sales-person](https://github.com/alibro005/Leetcode/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/alibro005/Leetcode/tree/master/0619-biggest-single-number) |
 | [1484-group-sold-products-by-the-date](https://github.com/alibro005/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
