@@ -79,6 +79,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alibro005/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/alibro005/DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/alibro005/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/alibro005/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -125,6 +126,7 @@ Happy coding! 🚀
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alibro005/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/alibro005/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/alibro005/DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/alibro005/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -174,6 +176,7 @@ Happy coding! 🚀
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alibro005/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/alibro005/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/alibro005/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -195,6 +198,7 @@ Happy coding! 🚀
 | [0242-valid-anagram](https://github.com/alibro005/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/alibro005/DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alibro005/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/alibro005/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/alibro005/DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/alibro005/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -228,6 +232,7 @@ Happy coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/alibro005/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/alibro005/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/alibro005/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/alibro005/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/alibro005/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/alibro005/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/alibro005/Leetcode/tree/master/0611-valid-triangle-number) |
